@@ -19,6 +19,10 @@ The installer script creates some basic directories and files needed for the pac
 The installer script contains the working directory of Avdaon OS Package GUI. It is /etc/aospac
 
 It has a file in it called repos and a directory called repos.d (the last one is currently not used but I still included it)
+
+the script has functions like version help etc. All are documented (or will be soon) with avdanpac help you can figure everything out.
+### avdanpac
+avdanpac is the command which can be used to install packages etc. API will be documented further to be able to be used with graphical UIs
 ### Godot Docs
 [v4.1 Docs](https://docs.godotengine.org/en/4.1/)
 ### EOF
