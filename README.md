@@ -5,7 +5,7 @@
 - [Installation](https://github.com/schooldanlp6/wiki/blob/aosdocs/README.md#installation)
 #### [Documentation](https://github.com/schooldanlp6/wiki/blob/aosdocs/README.md#installation)
 - [Installer Script](https://github.com/schooldanlp6/wiki/blob/aosdocs/README.md#installation)
-- [Godot Docs - using godot 4.1 and gd script alongside some bash]()
+- [Godot Docs - using godot 4.1 and gd script alongside some bash](https://github.com/schooldanlp6/wiki/blob/aosdocs/README.md#godot-docs)
 
 ### Installation
 ´´´Install:
@@ -20,5 +20,5 @@ The installer script contains the working directory of Avdaon OS Package GUI. It
 
 It has a file in it called repos and a directory called repos.d (the last one is currently not used but I still included it)
 ### Godot Docs
-[]()
+[v4.1 Docs](https://docs.godotengine.org/en/4.1/)
 ### EOF
